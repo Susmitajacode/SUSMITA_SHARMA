@@ -1,15 +1,52 @@
 <h1 align="center">Hi 👋, I'm Susmita Sharma</h1>
-<h3 align="center">I’m an aspiring Java Full Stack Developer from India with strong frontend skills and hands-on experience in building end-to-end web applications.</h3>
+<h3 align="center">Hi 👋, I'm Susmita Sharma</h3> <h3 align="center">🚀 Aspiring Java Full Stack Developer | Frontend-Focused | DSA & SQL Enthusiast from India 🇮🇳</h3> <p align="center"> I’m a passionate developer with strong frontend skills and hands-on experience in building end-to-end web applications using Java, SQL, and modern web technologies. I enjoy solving problems, improving code quality, and continuously learning through real-world projects and coding challenges. </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=susmitajacode&label=Profile%20views&color=0e75b6&style=flat" alt="susmitajacode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=susmitajacode&label=Profile%20views&color=0e75b6&style=flat" alt="susmitajacode" /> </p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susmitajacode" alt="susmitajacode" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=susmitajacode" alt="susmitajacode" /> </a> </p>
 
-- 🔭 I’m currently working on **ResolveX**
 
-- 🌱 I’m currently learning **Improving DSA, algorithmic thinking, and strengthening Java + SQL through coding challenges and real-world practice.**
+👩‍💻 About Me
 
-- 🚀 My Best Project **Pet-Hub**
+🔭 Currently working on ResolveX (Issue Resolution & Ticket Management System)
+
+🌱 Learning DSA, algorithmic thinking, Java backend development, and SQL optimization
+
+🧠 Practicing problems on LeetCode & coding platforms
+
+💬 Ask me about Java, SQL, HTML, CSS, JavaScript, JDBC, Servlets, and Frontend Development
+
+📫 Reach me at: add your email here
+
+🚀 Featured Projects
+🐾 Pet-Hub – Pet Adoption & Management Platform
+
+Built a full-stack web application using Java, JDBC, Servlets, SQL, HTML, CSS, and JavaScript
+
+Implemented user authentication, pet listings, adoption requests, and admin management
+
+Focused on clean UI, form validations, and database integration
+
+🛠 ResolveX – Issue & Ticket Resolution System
+
+Developed a system for creating, tracking, and resolving user issues
+
+Implemented CRUD operations and role-based access
+
+Improved backend logic and database connectivity
+
+
+🏆 Current Goals
+
+Complete #100DaysDSAChallenge
+
+Strengthen Java + SQL + Backend Architecture
+
+Contribute to open-source projects
+
+Secure a role as a Java Full Stack / Software Developer
+
+
 
 - 📫 How to reach me **susmitasharmamy@gmail.com**
 
